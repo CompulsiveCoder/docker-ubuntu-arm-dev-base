@@ -1,4 +1,4 @@
-FROM armv7/armhf-ubuntu
+FROM arm32v7/ubuntu
 
 ARG DEBIAN_FRONTEND="noninteractive"
 
