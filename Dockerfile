@@ -8,6 +8,8 @@ RUN apt-get update \
         apt-utils \
         curl \
         git \
+        rsync \
         sudo \
         wget \
+        python \
         && rm -rf /var/lib/apt/lists/*
